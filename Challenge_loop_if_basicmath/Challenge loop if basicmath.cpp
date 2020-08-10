@@ -3,7 +3,7 @@
 double k, l, j = 0, d = 0, z = 0, m, b, xbar = 0, c = 0, sum = 0, sum2 = 0, sum3 = 0, xbar1 = 0, sum4 = 0, sum5 = 0, sum6 = 0;
 int main() {
 
-	//µÃ§scanf_s¶éÒrunäÁèä´é¡ÃØ³Òà»ÅÕèÂ¹à»ç¹scanf´éÇÂ¹Ð¤ÃÑº
+	//scanf_s If not run, please change to scanf too.
 	scanf_s("%lf %lf", &m, &b);
 	c = m - b + 1;
 	if (m > b) {
